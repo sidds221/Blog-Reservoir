@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "\"# Blog-Reservoir\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/sidds221/Blog-Reservoir.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidds221/Blog-Reservoir.git"
+  },
+  "keywords": [
+    "Angular",
+    "Application"
+  ],
+  "author": "Sid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidds221/Blog-Reservoir/issues"
+  },
+  "homepage": "https://github.com/sidds221/Blog-Reservoir#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
